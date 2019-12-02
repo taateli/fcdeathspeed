@@ -1,0 +1,9 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const LOGOUT = 'LOGOUT';
+export const GET_PLAYERS = 'GET_PLAYERS';
+export const GET_PLAYER = 'GET_PLAYER';
+export const PLAYERS_ERROR = 'PLAYERS_ERROR';
+export const REGISTER_PLAYER = 'REGISTER_PLAYER';
